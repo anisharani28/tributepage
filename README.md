@@ -1,2 +1,2 @@
 # tributepage
-Responsive tribute page using html and css.
+Responsive survey page using html and css.
